@@ -1,33 +1,32 @@
 {
-  'id': '/title/tt8902990/',
-  'title': {
-    '@type': 'imdb.api.title.title',
-    'id': '/title/tt8902990/',
-    'image': {
-      'height': 7497,
-      'id': '/title/tt8902990/images/rm2889127681',
-      'url': 'https://m.media-amazon.com/images/M/MV5BNWQ5OTJjYTktMGNmYi00ZGMwLTlkYTgtODY3YWIxZDgyMzkwXkEyXkFqcGdeQXVyOTg4MzcyNzQ@._V1_.jpg',
-      'width': 5190
+  "id": "/title/tt8902990/",
+  "title": {
+    "@type": "imdb.api.title.title",
+    "id": "/title/tt8902990/",
+    "image": {
+      "height": 7497,
+      "id": "/title/tt8902990/images/rm2889127681",
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQ5OTJjYTktMGNmYi00ZGMwLTlkYTgtODY3YWIxZDgyMzkwXkEyXkFqcGdeQXVyOTg4MzcyNzQ@._V1_.jpg",
+      "width": 5190
     },
-    'runningTimeInMinutes': 143,
-    'title': 'The Sky Is Pink',
-    'titleType': 'movie',
-    'year': 2019
+    "runningTimeInMinutes": 143,
+    "title": "The Sky Is Pink",
+    "titleType": "movie",
+    "year": 2019
   },
-  'ratings': {
-    canRate: true,
-    rating: 7.6,
-    ratingCount: 5909,
-    otherRanks: [ [Object] ]
+  "ratings": {
+    "canRate": true,
+    "rating": 7.6,
+    "ratingCount": 5909
   },
-  'genres': [ 'Drama', 'Family', 'Romance' ],
-  'releaseDate': '2019-10-11',
-  'plotOutline': {
-    id: '/title/tt8902990/plot/po4695734',
-    text: 'Based on the love story of a couple spanning 25 years and told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with pulmonary fibrosis.'
+  "genres": [ "Drama", "Family", "Romance" ],
+  "releaseDate": "2019-10-11",
+  "plotOutline": {
+    "id": "/title/tt8902990/plot/po4695734",
+    "text": "Based on the love story of a couple spanning 25 years and told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with pulmonary fibrosis."
   },
-  'plotSummary': {
-    id: '/title/tt8902990/plot/ps4684067',
-    text: `The Sky Is Pink is the incredible love story of a couple spanning 25 years, told through the lens of their teenage daughter. She is sassy, sardonic, spunky....and dead. A fact she nonchalantly mentions at the very outset. "Get over it. It's quite cool actually. You'll see when you get here (which you do know you will right?!)" Unexpectedly humorous, warm and heart-wrenching all at once as the magic of life and the beauty of death manifests in one family's unusual, courageous journey in this film. It's 100% a true story.`
+  "plotSummary": {
+    "id": "/title/tt8902990/plot/ps4684067",
+    "text": "The Sky Is Pink is the incredible love story of a couple spanning 25 years, told through the lens of their teenage daughter. She is sassy, sardonic, spunky....and dead. A fact she nonchalantly mentions at the very outset. 'Get over it. It's quite cool actually. You'll see when you get here (which you do know you will right?!)' Unexpectedly humorous, warm and heart-wrenching all at once as the magic of life and the beauty of death manifests in one family's unusual, courageous journey in this film. It's 100% a true story."
   }
 }
