@@ -1,5 +1,6 @@
 {
-  "id": "/title/tt8902990/",
+  "id": "tt8902990",
+  "heading" : "An incredible story told from the grave.",
   "title": {
     "@type": "imdb.api.title.title",
     "id": "/title/tt8902990/",
@@ -7,6 +8,7 @@
       "height": 7497,
       "id": "/title/tt8902990/images/rm2889127681",
       "url": "https://m.media-amazon.com/images/M/MV5BNWQ5OTJjYTktMGNmYi00ZGMwLTlkYTgtODY3YWIxZDgyMzkwXkEyXkFqcGdeQXVyOTg4MzcyNzQ@._V1_.jpg",
+      "cover" : "https://s.yimg.com/ny/api/res/1.2/7rSjXlUTbcO1dj9QCNmQjQ--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NzAxO2g9NDM4/https://media.zenfs.com/en-US/pop_diaries_903/1b9d4a1310d0e79a837587d1b7045c0a",
       "width": 5190
     },
     "runningTimeInMinutes": 143,
